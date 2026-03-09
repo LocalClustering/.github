@@ -16,7 +16,7 @@ Classical graph clustering partitions all nodes into groups. But in many applica
 
 ```console
 brew install LocalClustering/motifclustering/motifclustering
-heidelberg_motif_clustering --algorithm social --graph network.graph --seed_node 42
+heidelberg_motif_clustering --algorithm social --graph network.graph --seed_node 42 --output community.txt
 ```
 
 ## Papers
