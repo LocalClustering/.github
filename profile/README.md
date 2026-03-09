@@ -24,6 +24,3 @@ heidelberg_motif_clustering --algorithm social --graph network.graph --seed_node
 - A. Chhabra, M. Fonseca Faraj, C. Schulz. **Local Motif Clustering via (Hyper)Graph Partitioning.** ALENEX 2023. [DOI](https://doi.org/10.1137/1.9781611977561.ch9)
 - A. Chhabra, M. Fonseca Faraj, C. Schulz. **Faster Local Motif Clustering via Maximum Flows.** ESA 2023. [DOI](https://doi.org/10.4230/LIPIcs.ESA.2023.34)
 
-## Contact
-
-Heidelberg University, Institute of Computer Science
